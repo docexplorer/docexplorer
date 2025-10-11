@@ -1,16 +1,16 @@
-## Hi there 👋
+# Doc Explorer (API references)
 
-<!--
-**docexplorer/docexplorer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[DocExplorer](https://www.docexplorer.net) An AI-powered document browser that quickly locates content based on the current cursor position, supports search and bookmarking, and enables rapid previews via a member list.
 
-Here are some ideas to get you started:
+Currently, only JavaScript and TypeScript documents are supported, Other languages are being added.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Multilingual support
+support: العربية Deutsch English 日本語 한국어 Brasil Русский 简体中文 繁体中文
+
+![Demo](https://download.docexplorer.net/public/multilingual_support.jpg)
+
+## Demo
+![Demo](https://download.docexplorer.net/public/demo.gif)
+
+## Support, Feedback, and Community
+We are actively working on improving the quality of the extension. Please feel free to report any issues, suggestions, or exciting / interesting suggestions in [our active Discord community](https://discord.gg/NYkafyJd)! 
