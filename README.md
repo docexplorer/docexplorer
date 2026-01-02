@@ -1,5 +1,7 @@
 # Doc Explorer (API references)
 
+This is a VS Code extension.
+
 [DocExplorer](https://www.docexplorer.net) An AI-powered document browser that quickly locates content based on the current cursor position, supports search and bookmarking, and enables rapid previews via a index list.
 
 Currently supports documentation for Go and TypeScript/JavaScript; documentation for other languages is being added gradually.
