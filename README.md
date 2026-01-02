@@ -6,6 +6,11 @@ Currently supports documentation for Go and TypeScript/JavaScript; documentation
 
 Multilingual support for documentation: العربية Deutsch English 日本語 한국어 Brasil Русский 简体中文 繁体中文
 
+Quantity:  
+This data is incrementing.  
+go: 20k+ packages, 100M+ apis  
+ts/js: 50k+ packages, 20M+ apis  
+
 ## Preview
 ![preview](https://download.docexplorer.net/public/preview.gif)
 
